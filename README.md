@@ -1,5 +1,3 @@
-# John Costanzo -- @jrock2004
----
 Hi, my name is John and I am a highly motivated Senior UI Engineer with solid experience through all phases of the project life cycles. I can implement creative technology solutions as well as create/integrate new process improvements to meet challenging business needs. 
 
 <!--
