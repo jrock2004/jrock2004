@@ -5,6 +5,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrock2004&show_icons=true&theme=gruvbox" />
 </a>
 
+<br></br>
+
 Hi, my name is John and I am a highly motivated Senior UI Engineer with solid experience through all phases of the project life cycles. I can implement creative technology solutions as well as create/integrate new process improvements to meet challenging business needs. 
 
 - 🌱 I’m currently learning to become a better developer with a11y in mind
