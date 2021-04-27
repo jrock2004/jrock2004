@@ -1,6 +1,6 @@
 # Github Profile
 
-![My current desk setup]('screenshot.jpeg')
+![Image](http://raw.githubusercontent.com/jrock2004/jrock2004/master/screenshot.jpeg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jrock2004&show_icons=true&theme=gruvbox" />
