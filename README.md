@@ -1,31 +1,18 @@
 # Github Profile
 
-![Image](http://raw.githubusercontent.com/jrock2004/jrock2004/master/screenshot.jpeg)
+![How my desk setup looks currently](https://raw.githubusercontent.com/jrock2004/jrock2004/master/screenshot.jpeg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jrock2004&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrock2004&show_icons=true&theme=gruvbox" />
-</a>
+Hi, my name is John and I am a highly motivated tech lead with solid experience through all phases of the project life cycles. I can implement creative technology solutions as well as create/integrate new process improvements to meet challenging business needs. 
 
-<br></br>
-
-Hi, my name is John and I am a highly motivated Senior UI Engineer with solid experience through all phases of the project life cycles. I can implement creative technology solutions as well as create/integrate new process improvements to meet challenging business needs. 
-
-- 🌱 I’m currently learning to become a better developer with a11y in mind
-
-<!--
-**jrock2004/jrock2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech | Tools | Stats
+<!-- Frameworks -->
+<!-- Github stats -->
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jrock2004&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrock2004&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
+  </a>
+</p>
+<!-- Languages -->
